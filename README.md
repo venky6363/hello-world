@@ -1,3 +1,2 @@
 # maven-project
-# testing 1..2..3
-Simple Maven Project
+# hello-world testing 1.2.3
