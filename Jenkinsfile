@@ -1,7 +1,7 @@
 pipeline {
     agent { label 'gcp' }
  tools{
-  maven 'm3'
+  maven 'maven'
  }
     stages {
         stage('build') {
